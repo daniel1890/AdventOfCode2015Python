@@ -25,4 +25,4 @@ while i + 1 < len(lijst_to_array):
 	if floor == -1:
 		print(i + 2, floor)
 
-print(floor)
+print("Antwoord deel 1: ", ans, "Antwoord deel 2: ", floor)
